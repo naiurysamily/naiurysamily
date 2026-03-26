@@ -1,41 +1,37 @@
-👩🏽‍💻 Naiury Samily
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-💻 Auxiliar de Service Desk | Tecnologia da Informação
-📍 São Paulo – SP
-🚀 Em transição para a área de Desenvolvimento de Software
+# 👋 Oi, eu sou a Naiury Samily! 
 
-💡 Sobre mim
-Atualmente atuo como Auxiliar de Service Desk, prestando suporte técnico aos usuários e auxiliando na manutenção do ambiente de TI corporativo, incluindo configuração de máquinas, instalação de softwares e tratativa de chamados técnicos.
-Minha experiência na área de suporte me proporcionou uma visão prática sobre o funcionamento de sistemas em ambiente empresarial, além de desenvolver habilidades em análise de problemas, raciocínio lógico e resolução de incidentes.
-Paralelamente, estou em processo de desenvolvimento das minhas habilidades em programação, com foco na construção de soluções eficientes, seguras e escaláveis.
+### **Futura Desenvolvedora | Buscando Estágio em Desenvolvimento de Software**
 
-🎯 Objetivo Profissional
-Atuar como Desenvolvedora de Software, aplicando boas práticas de desenvolvimento, versionamento de código e construção de aplicações voltadas ao ambiente corporativo.
+---
 
-🛠️ Competências Técnicas
-Suporte técnico ao usuário
-Tratativa e acompanhamento de chamados
-Configuração de ambientes Windows
-Instalação e suporte a softwares corporativos
-Diagnóstico e resolução de incidentes
-Versionamento de código com Git
+### 🎯 Sobre Mim
 
-📫 Contato
-✉️ Email: naiurysamily12@gmail.com
-💼 LinkedIn: linkedin.com/in/naiury
-⭐ Em constante aprimoramento técnico e aberta a oportunidades na área de desenvolvimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonada por construir soluções tecnológicas eficientes. Atualmente, trabalho como Auxiliar de Service Desk em um ambiente corporativo, onde desenvolvi habilidades cruciais para a área de desenvolvimento, como:
+-   🧩 **Resolução de Problemas:** Análise e diagnóstico ágil de incidentes técnicos.
+-   🤝 **Comunicação:** Suporte direto a usuários finais, traduzindo termos técnicos para linguagem clara.
+-   ⚙️ **Priorização:** Gerenciamento de fila de chamados técnicos.
 
-<!--
-**naiurysamily/naiurysamily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Estou em transição para a área de desenvolvimento, buscando aplicar e expandir meus conhecimentos em um ambiente de equipe colaborativa.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Competências Técnicas
+
+#### **Linguagens & Tecnologias Principais:**
+-   **Front-end:** HTML5, CSS3, JavaScript (intermediário).
+-   **Controle de Versão:** Git, GitHub.
+
+#### **Outros Conhecimentos:**
+-   Suporte Técnico e Manutenção de TI.
+-   Ambiente Corporativo Windows.
+
+---
+
+### 📬 Vamos nos conectar?
+
+Gostaria de falar sobre oportunidades de estágio ou tecnologia? Sinta-se à vontade para me contatar.
+
+<a href="mailto:naiurysamily12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
+<a href="https://linkedin.com/in/naiury" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B1?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+
+
