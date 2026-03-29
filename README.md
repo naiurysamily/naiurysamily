@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonada por con
 ### 🛠️ Competências Técnicas
 
 #### **Linguagens & Tecnologias Principais:**
--   **Front-end:** HTML5, CSS3, JavaScript (intermediário).
+-   **Front-end:** HTML5, CSS3, JavaScript.
 -   **Controle de Versão:** Git, GitHub.
 
 #### **Outros Conhecimentos:**
