@@ -20,6 +20,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonada por con
 #### **Linguagens & Tecnologias Principais:**
 -   **Front-end:** HTML5, CSS3, JavaScript.
 -   **Controle de Versão:** Git, GitHub.
+-   **Integração:** Consumo de APIs RESTful.
 
 #### **Outros Conhecimentos:**
 -   Suporte Técnico e Manutenção de TI.
