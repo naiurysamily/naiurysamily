@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Naiury Samily! 
+# Oi, eu sou a Naiury Samily! 
 
 ### **Futura Desenvolvedora | Buscando Estágio em Desenvolvimento de Software**
 
