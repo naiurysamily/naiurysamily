@@ -47,4 +47,4 @@ Gostaria de falar sobre oportunidades de estágio ou tecnologia? Sinta-se à von
 <a href="https://linkedin.com/in/naiury" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B1?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=ff0000&section=footer&reversal=true"/>
