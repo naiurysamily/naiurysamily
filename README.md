@@ -39,6 +39,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonada por con
   <img src="https://readme-typing-svg.herokuapp.com/?font=Metal+Mania&size=35&color=FF0000&width=1000&lines=Competências+Técnicas:&repeat=false" alt="Competências Técnicas Estático" />
 </p>
 
+<img src="https://github.com/user-attachments/assets/13573557-7649-4ec1-9dc6-62c58cdae389" width="230px" align="right" style= "margin-right: 60px; margin-left: 25px; margin-bottom: 10px;"
+  />
+
 #### **Linguagens & Tecnologias Principais:**
 ✦  **Front-end:** HTML5, CSS3, JavaScript.
 <br>
@@ -50,6 +53,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonada por con
 ✦  Suporte Técnico e Manutenção de TI.
 <br>
 ✦  Ambiente Corporativo Windows.
+
+<br clear="right"/>
 
 ---
 
