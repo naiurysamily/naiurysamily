@@ -30,7 +30,8 @@ I am a Systems Analysis and Development (ADS) student passionate about building 
 
 *I am transitioning into the development field, seeking to apply and expand my knowledge in a collaborative team environment.*
 
----
+<br>
+
 
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=naiurysamily&theme=react-dark&bg_color=000000&color=ff0000&line=ff0000&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
